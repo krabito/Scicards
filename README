@@ -1,0 +1,3 @@
+toscitrans.c is used to replace the scicards node name*
+in the scicards.xref file with the signal name given in
+the schematic.
